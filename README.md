@@ -21,7 +21,7 @@ This project showcases basic concepts of Java such as:
 
 ##  Tasks Included
 
-### Task 1: Number Guessing Game 🎮
+### Task 1: Number Guessing Game 
 
 A simple console-based game where:
 - The computer randomly selects a number between **1 and 100**
